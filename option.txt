@@ -1,0 +1,6 @@
+map_random
+solveur
+profondeur
+normal
+aff_fin
+regle_stricte
